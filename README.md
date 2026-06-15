@@ -20,6 +20,8 @@ This repository contains my solutions to various Java programming and DSA proble
 * Queues
 * Hashing
 * Trees
+* priority queue
+* heap tree
 * Graphs
 * Dynamic Programming
 * Competitive Programming Problems
@@ -39,19 +41,6 @@ This repository contains my solutions to various Java programming and DSA proble
 * Build a strong coding portfolio
 
 ## Repository Structure
-
-```text
-Java-and-DSA-Practice/
-├── Arrays/
-├── Strings/
-├── Recursion/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-└── Competitive Programming/
-```
 
 ## Author
 
