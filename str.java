@@ -10,9 +10,10 @@ public class str {
        
         s1 = s1.toLowerCase();
         s2 = s2.toLowerCase();
-        for(int i=0;i<s1.length;i++){
-            int c1=s1.CharAt(i);
-            int c2=s1.CharAt(i);
+        for(int i=0;i<s1.length();i++){
+            int c1=s1.charAt(i);
+            int c2=s1.
+            charAt(i);
             if(c1==c2){
                 System.out.print("0");
             }

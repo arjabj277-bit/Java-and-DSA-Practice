@@ -1,5 +1,5 @@
 class students {
-    static void roll = 40;
+   // static void roll = 40;
     Integer a1 = 40;
     Integer a2 = 40;
     void show(){
@@ -7,8 +7,8 @@ class students {
 }
 }
 public class student {
-public static void main(String args[]){f
+public static void main(String args[]){
     student s = new student();
-    s.show();
+    //s.show();
 }
 }

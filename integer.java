@@ -34,4 +34,8 @@ public class integer {
             System.out.print("INVALID");
         }
     }
+
+    private static int SumofDigits(String number) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }

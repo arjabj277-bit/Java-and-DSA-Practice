@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class cf1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
@@ -25,3 +25,4 @@ public class Main {
             System.out.println(ok ? a : -1);
         }
     }
+}
